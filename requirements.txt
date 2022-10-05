@@ -7,4 +7,5 @@ pyarrow==9.0.0
 scipy==1.9.1
 seaborn==0.11.2
 scikit-learn==1.1.2
+scikit-posthocs==0.7.0
 statsmodels==0.13.2
